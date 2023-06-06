@@ -1,0 +1,26 @@
+.box{
+    background-color: lightgrey;
+    width: 600px;
+    height: 150px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+ }
+ .box2{
+    background-color: orange;
+    width: 600px;
+    height: 150px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+ }
+ .box3{
+    background-color: blue;
+    width: 600px;
+    height: 150px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }

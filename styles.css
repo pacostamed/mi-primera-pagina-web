@@ -1,0 +1,33 @@
+body{
+    background-color:lightblue;
+    color:darkblue;
+}
+h1{
+    font-family:'Arial', sans-serif;
+    font: size 40px;
+    text-align: center;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    padding: 10px;
+    margin: 20px;
+}
+#messi{
+    color: orange;
+    border: 1px solid salmon;
+}
+
+table{
+    table-layout: fixed;
+    color: blue;
+    border-style: solid;
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+th, td {
+ 
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+ }
